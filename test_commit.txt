@@ -4,3 +4,4 @@ date 18th july
 date 19th july at 17:12; commit
 at 17:51 19th July
 at 19:50 19th july
+from local machine, commit testing

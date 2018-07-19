@@ -1,0 +1,4 @@
+this is the first entry!
+Second entry made
+date 18th july
+date 19th july at 17:12; commit
